@@ -1,32 +1,35 @@
 # About
 
-English Name: Pengson wang (Wang Pin)
+Name: Pengson wang (Wang Pin)
 
 Education background：Xi'an University of Posts & Telecommunication, Bachelor
 
 Email: dmoneh@163.com
 
-Tel. (86) + 18321140470
-
-Current Location: Shanghai
-
 # Skills
 
-Master popular and core knowledge of front-end development, including Reactjs, redux, styled-components, sass. Be familiar with tools including Webpack, Gulp. Used to develop microservice using Nodejs with frameworks such as Express/Hapi, write unit tests.
-
-And very good at build/improve the infrastructure, such as scaffolds, library, components. And a good team player who has used to be a senior engineer, scrum master, tech leader in different projects. A good document writer.
+Master core knowledge of front-end development, including JavaScript, CSS, Reactjs, etc. Be familiar with Node and TypeScript. Good at develop scripts/components/scaffold using those knowledges.
 
 # Find Me
 
 github：https://github.com/wangpin34
 
-blog: https://blog.wangpin.xyz
-
 zhihu：https://zhuanlan.zhihu.com/wangpin
 
 # Project Experiences
 
-## Dec 2018 till Now
+## Now
+
+Name: developers.io & Editor
+
+Description: Docs generator on top of Gatsby
+
+Core technogies: Reactjs, GatsBy, Rxjs, Nodejs
+
+My Role: Developer of the Docs generator and Editor
+
+
+## Dec 2018 till 2020
 
 Name: Fitstation app.
 
