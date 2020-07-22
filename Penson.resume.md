@@ -29,7 +29,7 @@ Core technogies: Reactjs, GatsBy, Rxjs, Nodejs
 My Role: Developer of the Docs generator and Editor
 
 
-## Dec 2018 till 2020
+## Dec 2018 to 2020
 
 Name: Fitstation app.
 
